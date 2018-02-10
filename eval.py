@@ -1,3 +1,4 @@
+#! usr/bin/env python3.6.4
 from util import *
 from forecast import *
 
